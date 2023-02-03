@@ -11,6 +11,7 @@
 
 
 <br>
+
   - A passionate Self-taught full-stack quality assurance engineer
   - Personal website [link](https://msz5213.github.io/mdzamanportfolio/)
   - I’m currently open for an independent contributor job opportunity
@@ -20,9 +21,7 @@
 <img src="https://user-images.githubusercontent.com/9774321/216678324-b7ad741a-689c-4ece-8c1e-2bfdce44b710.gif"><br><br>
 
 
-
-- **Full-Stack Quality Assurance Engineer**!
-
+- **Full-Stack Quality Assurance Engineer**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -30,6 +29,7 @@
    ![Git](https://img.shields.io/badge/Git%20-%23F7DF1E.svg?style=for-the-badge&logo=Git&logoColor=red&color=orange)    
 
 <br>
+
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -45,7 +45,7 @@
 
 
 <br>    
-<br> 
+
 
 ### Connect with me:
 
