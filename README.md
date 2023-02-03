@@ -12,10 +12,10 @@
 
 <br>
 
-  - A passionate Self-taught full-stack quality assurance engineer
-  - Personal website [link](https://msz5213.github.io/mdzamanportfolio/)
-  - I’m currently open for an independent contributor job opportunity
-  - I’m currently learning Advanced Python
+  - A Passionate Self-taught Full-Stack Quality Assurance Engineer
+  - Personal Website [Link](https://msz5213.github.io/mdzamanportfolio/)
+  - I’m Currently Open for an Independent contributor Job Opportunity
+  - I’m Currently Learning Advanced Python
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/9774321/216678324-b7ad741a-689c-4ece-8c1e-2bfdce44b710.gif"><br><br>
@@ -25,8 +25,23 @@
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+   ![Java](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+   ![C#.Net](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+   ![Python](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
-   ![Git](https://img.shields.io/badge/Git%20-%23F7DF1E.svg?style=for-the-badge&logo=Git&logoColor=red&color=orange)    
+   ![Git](https://img.shields.io/badge/Git%20-%23F7DF1E.svg?style=for-the-badge&logo=Git&logoColor=red&color=orange) 
+   ![GitHub](https://img.shields.io/badge/Git%20-%23F7DF1E.svg?style=for-the-badge&logo=Git&logoColor=red&color=orange) 
+   ![Bitbucket](https://img.shields.io/badge/Git%20-%23F7DF1E.svg?style=for-the-badge&logo=Git&logoColor=red&color=orange) 
+   ![SVN](https://img.shields.io/badge/Git%20-%23F7DF1E.svg?style=for-the-badge&logo=Git&logoColor=red&color=orange) 
+   ![Selenium](https://img.shields.io/badge/Git%20-%23F7DF1E.svg?style=for-the-badge&logo=Git&logoColor=red&color=orange) 
+   ![WebDriverIO](https://img.shields.io/badge/Git%20-%23F7DF1E.svg?style=for-the-badge&logo=Git&logoColor=red&color=orange) 
+   ![Protractor](https://img.shields.io/badge/Git%20-%23F7DF1E.svg?style=for-the-badge&logo=Git&logoColor=red&color=orange) 
+   ![CypressIO](https://img.shields.io/badge/Git%20-%23F7DF1E.svg?style=for-the-badge&logo=Git&logoColor=red&color=orange) 
+   ![PlayWright](https://img.shields.io/badge/Git%20-%23F7DF1E.svg?style=for-the-badge&logo=Git&logoColor=red&color=orange)
+   ![SuperTest](https://img.shields.io/badge/Git%20-%23F7DF1E.svg?style=for-the-badge&logo=Git&logoColor=red&color=orange)
+   ![RestAssured](https://img.shields.io/badge/Git%20-%23F7DF1E.svg?style=for-the-badge&logo=Git&logoColor=red&color=orange)
+   ![Katalon](https://img.shields.io/badge/Git%20-%23F7DF1E.svg?style=for-the-badge&logo=Git&logoColor=red&color=orange)
+   
 
 <br>
 
@@ -38,9 +53,10 @@
 
 - **Softwares and Tools**:
 
-    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+
+    ![intellij](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![pycharm](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![visual studio](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
