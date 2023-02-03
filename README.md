@@ -3,7 +3,7 @@ Visitor count
 Count Number
 
 
-:male-technologist: About me
+👨‍💻 About me
 
 A passionate Self-taught full-stack quality assurance engineer
 Personal website link
