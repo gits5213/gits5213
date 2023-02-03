@@ -1,16 +1,19 @@
-### Hi there 👋
+Hello
+Visitor count
+Count Number
 
-<!--
-**msz5213/msz5213** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+:male-technologist: About me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A passionate Self-taught full-stack quality assurance engineer
+Personal website link
+I’m currently open for an independent contributor job opportunity
+I’m currently learning Advanced Python
+
+Technology
+
+
+Connect with me:
+
+
+
