@@ -27,25 +27,25 @@ Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framew
 <img src="https://user-images.githubusercontent.com/9774321/216678324-b7ad741a-689c-4ece-8c1e-2bfdce44b710.gif"><br><br>
 
 
-- **Quality Assurance Tech Stack:**:
+- **Quality Assurance Tech Stack:**
 
-   ![HTML5](https://img.shields.io/badge/-HTML5-white)
-   ![CSS3](https://img.shields.io/badge/-CSS3-white)
-   ![Java](https://img.shields.io/badge/-JAVA-blue)
-   ![C#.Net](https://img.shields.io/badge/-C%23.Net-brightgreen)  
-   ![Python](https://img.shields.io/badge/-PYTHON-yellow)  
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-lightgrey)  
-   ![Git](https://img.shields.io/badge/-GIT-orange) 
-   ![GitHub](https://img.shields.io/badge/-GITHUB-Black) 
-   ![Bitbucket](https://img.shields.io/badge/-BITBUCKET-Black) 
-   ![SVN](https://img.shields.io/badge/-SVN-Black) 
-   ![Selenium](https://img.shields.io/badge/-SELENIUM-green) 
-   ![WebDriverIO](https://img.shields.io/badge/-WebDriverIO-red) 
-   ![Protractor](https://img.shields.io/badge/-PROTRACTOR-red) 
-   ![CypressIO](https://img.shields.io/badge/-CypressIO-Black) 
-   ![PlayWright](https://img.shields.io/badge/-PlayWright-green)
-   ![SuperTest](https://img.shields.io/badge/-SuperTest-red)
-   ![RestAssured](https://img.shields.io/badge/-RestAssured-green)
+   ![HTML5](https://img.shields.io/badge/-HTML5-white)</br>
+   ![CSS3](https://img.shields.io/badge/-CSS3-white)</br>
+   ![Java](https://img.shields.io/badge/-JAVA-blue)</br>
+   ![C#.Net](https://img.shields.io/badge/-C%23.Net-brightgreen) </br> 
+   ![Python](https://img.shields.io/badge/-PYTHON-yellow)</br>
+   ![JavaScript](https://img.shields.io/badge/-JavaScript-lightgrey)</br>
+   ![Git](https://img.shields.io/badge/-GIT-orange)</br>
+   ![GitHub](https://img.shields.io/badge/-GITHUB-Black)</br>
+   ![Bitbucket](https://img.shields.io/badge/-BITBUCKET-Black)</br>
+   ![SVN](https://img.shields.io/badge/-SVN-Black)</br>
+   ![Selenium](https://img.shields.io/badge/-SELENIUM-green)</br>
+   ![WebDriverIO](https://img.shields.io/badge/-WebDriverIO-red)</br>
+   ![Protractor](https://img.shields.io/badge/-PROTRACTOR-red)</br>
+   ![CypressIO](https://img.shields.io/badge/-CypressIO-Black)</br> 
+   ![PlayWright](https://img.shields.io/badge/-PlayWright-green)</br>
+   ![SuperTest](https://img.shields.io/badge/-SuperTest-red)</br>
+   ![RestAssured](https://img.shields.io/badge/-RestAssured-green)</br>
    ![Katalon](https://img.shields.io/badge/-KatalonStudio-green)
    
 
