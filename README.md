@@ -9,12 +9,18 @@
 
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
 
+<br>
+I am Full-Stack Quality Assurance Engineer, practicing QA principles and methodologies. Quite a long time of managing, supervising, mentoring, and leading full-stack testing efforts & hands-on coding, leading with the ability to collaborate with software development in all phases of the SDLC & STLC, including planning, coding, testing, troubleshooting, deploying, and ongoing QA full-stack automation code maintenance & delivering right product on time.
+
+<br>
+Expertise in Tech Stack: 
+Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framework: Selenium, CypressIO, Playwright, WebDriverIO, Protractor, Appium, XCUITest, NightWatch, RestAssured, SuperTest, Katalon Studio, Frisby, PyTest, Agile-Scrum, JIRA, Xray, Rally, Zephyr, Adaptavist, ALM, SQL, CodedUI, Swagger, Confluence, POSTMAN, ReadyAPI, Splunk, New Relic, SonarQube & CheckMarx, BigData, Figma, JSON, HTML, PhantomJS, Jupiter notebook, Immuta, JMeter (Backend, AWS S3 Storage & UI Load & Stress test), MySQL, Postgresql, Dbeaver, PGAdmin.
 
 <br>
 
-  - A Passionate Self-taught Full-Stack Quality Assurance Engineer
-  - Personal Website [Link](https://msz5213.github.io/mdzamanportfolio/)
-  - I’m Currently Open for an Independent contributor Job Opportunity
+  - I am Passionate, Dynamic, and Innovative.
+  - My Portfolio [Link](https://msz5213.github.io/mdzamanportfolio/)
+  - I’m Currently Open for an Independent contributor Job Opportunity.
   - I’m Currently Learning Advanced Python
 <br><br>
 
