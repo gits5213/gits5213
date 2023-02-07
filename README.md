@@ -24,9 +24,6 @@ Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framew
   - I’m Currently Learning Advanced Python
 <br><br>
 
-<img src="https://user-images.githubusercontent.com/9774321/216678324-b7ad741a-689c-4ece-8c1e-2bfdce44b710.gif"><br><br>
-
-
 - **Quality Assurance Tech Stack:**
 
    ![HTML5](https://img.shields.io/badge/-HTML5-white)
