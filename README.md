@@ -88,5 +88,30 @@ Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framew
   
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="90%" align="center">
 
+## Standards & Best Practices
+- [Full Stack QA Standards](https://github.com/msz5213/README)
 
+## Public Repository
+- [Personal React WebSite](https://github.com/msz5213/ittciwebsite)
+- [Personal Portfolio](https://github.com/msz5213/mdzamanportfolio)
+- [Interview Bullish UI&API Project](https://github.com/msz5213/bullish)
+- [Java RestAssured Maven Project](https://github.com/msz5213/RESTfullRestAssuredTestAutomation/tree/master/RESTfullRestAssuredAPIAutomation)
+- [CypressIO Old UI Framework](https://github.com/msz5213/cypresse2e)
+- [Jenkin pipeline setUp](https://github.com/msz5213/jenkins)
+- [JMeter Performance Framework](https://github.com/msz5213/jmeter)
+- [Java Selenium Practice Interview Project](https://github.com/msz5213/InterviewProject)
+- [Protractor Framework](https://github.com/msz5213/ProtractorPublic)
+- [Take home webDriver Test](https://github.com/msz5213/take-home-webdriver-test)
+- [Personal TODO Project](https://github.com/msz5213/todolist)
+- [Personal Student Subscription Project](https://github.com/msz5213/student-subscription)
+
+
+## Private Repository
+- [GIT's Independent Company Works](https://github.com/msz5213/company)
+- 
+
+
+## Students Repository
+- [Bangladesh Student Batch 2023](https://github.com/msz5213/students2023)
+- [Bangladesh Student Batch 2020](https://github.com/msz5213/sqabdautomation)
 
