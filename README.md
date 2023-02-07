@@ -88,29 +88,29 @@ Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framew
   
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="90%" align="center">
 
-## Standards & Best Practices
+## Standards & best practices docs
 - [Full Stack QA Standards](https://github.com/msz5213/README)
 
 ## Books
 - [Books](https://github.com/msz5213/Books)
 
-## Personal Web Development Project
+## Personal web development projects
 - [Personal Portfolio](https://github.com/msz5213/mdzamanportfolio)
 - [Personal React WebSite](https://github.com/msz5213/ittciwebsite)
 - [Personal TODO Project](https://github.com/msz5213/todolist)
 - [Personal Student Subscription Project](https://github.com/msz5213/student-subscription)
 
-## Interview Project Framework
+## Interview project framework
 - [Take home webDriver Test](https://github.com/msz5213/take-home-webdriver-test)
 - [Java Selenium Practice Interview Project](https://github.com/msz5213/InterviewProject)
 
 ## CI/CD
 - [Jenkin pipeline setUp](https://github.com/msz5213/jenkins)
 
-## Performance JMeter Framework
+## Performance JMeter framework
 - [JMeter Performance Framework](https://github.com/msz5213/jmeter)
 
-## Public Repository (Java)
+## Public repository (JAVA)
 - [Interview Bullish UI&API Project](https://github.com/msz5213/bullish)
 - [Java RestAssured Maven Project](https://github.com/msz5213/RESTfullRestAssuredTestAutomation/tree/master/RESTfullRestAssuredAPIAutomation)
 - [Java Selenium UI Framewrok](https://github.com/msz5213/AutomationFramewok)
@@ -127,14 +127,14 @@ Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framew
 - [ES6 Cheetsheet](https://github.com/msz5213/ES6-Cheetsheets)
 
 
-## Private Repository
+## Private repository
 - [GIT's Independent Company Works](https://github.com/msz5213/company)
 
 ## GitHub Emoji
 - [GitHub Emoji](https://github.com/msz5213/Github-emoji)
 
 
-## Students Repository
+## Students repository
 - [Bangladesh Student Batch 2023](https://github.com/msz5213/students2023)
 - [Bangladesh Student Batch 2020](https://github.com/msz5213/sqabdautomation)
 
