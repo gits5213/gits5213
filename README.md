@@ -16,13 +16,12 @@ I am a Full-Stack Quality Assurance Engineer, practicing QA principles and metho
 Expertise in Tech Stack: 
 Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framework: Selenium, CypressIO, Playwright, WebDriverIO, Protractor, Appium, XCUITest, NightWatch, RestAssured, SuperTest, Katalon Studio, Frisby, PyTest, Agile-Scrum, JIRA, Xray, Rally, Zephyr, Adaptavist, ALM, SQL, CodedUI, Swagger, Confluence, POSTMAN, ReadyAPI, Splunk, New Relic, SonarQube & CheckMarx, BigData, Figma, JSON, HTML, PhantomJS, Jupiter notebook, Immuta, JMeter (Backend, AWS S3 Storage & UI Load & Stress test), MySQL, Postgresql, Dbeaver, PGAdmin.
 
-<br><br>
-
+<br>
   - I am Passionate, Dynamic, and Innovative.
   - My Portfolio [Link](https://msz5213.github.io/mdzamanportfolio/)
   - I’m Currently Open for an Independent contributor Job Opportunity.
   - I’m Currently Learning Advanced Python
-<br><br>
+<br>
 
 <img src="https://user-images.githubusercontent.com/9774321/216678324-b7ad741a-689c-4ece-8c1e-2bfdce44b710.gif"><br><br>
 
