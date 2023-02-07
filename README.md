@@ -117,6 +117,7 @@ Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framew
 - [Java Selenium UI Framework](https://github.com/msz5213/POM_TestNG_CompleteFramework)
 - [Java Selenium UI Practice Project](https://github.com/msz5213/Daily_PracticeTest)
 - [Java Selenium UI Framework](https://github.com/msz5213/LearningAutomationEndToEnd/tree/master/ScratchSeleniumAPISProject)
+- [Java PlayWright UI Framewrok](https://github.com/msz5213/Playwright/tree/master/javaBoilerplate)
 
 ## Public Repository (Javascript) 
 - [CypressIO Old UI Framework](https://github.com/msz5213/cypresse2e)
