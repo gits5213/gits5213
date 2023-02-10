@@ -89,7 +89,7 @@ Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framew
 <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="90%" align="center">
 
 ## Standards & best practices docs
-- [Full Stack QA Standards](https://github.com/msz5213/README)
+- [Full Stack QA Standards](https://github.com/msz5213/StandardsReadME)
 
 ## Books
 - [Books](https://github.com/msz5213/Books)
@@ -138,6 +138,17 @@ Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framew
 ## Students repository
 - [Bangladesh Student Batch 2023](https://github.com/msz5213/students2023)
 - [Bangladesh Student Batch 2020](https://github.com/msz5213/sqabdautomation)
+
+## ISTQB
+- [Foundation]()
+- [Advance Automation Test]()
+- [Agile]()
+- [Performance]()
+- [Test Manager]()
+
+## CompTIA
+- [Security+]()
+- [CASP+]()
 
 
 
