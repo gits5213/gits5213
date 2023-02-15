@@ -96,7 +96,7 @@ Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framew
 
 ## Personal web development projects
 - [Personal Portfolio](https://github.com/gits5213/mdzamanportfolio)
-- [Personal React WebSite](https://github.com/gits5213/ittciwebsite)
+- [Personal React WebSite](https://github.com/gits5213/gits)
 - [Personal TODO Project](https://github.com/gits5213/todolist)
 - [Personal Student Subscription Project](https://github.com/gits5213/student-subscription)
 
