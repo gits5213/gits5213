@@ -63,7 +63,7 @@ Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framew
 - **Softwares and Tools**:
 
 
-    ![intellij](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![intellij](https://img.shields.io/badge/intellij-%234285F4.svg?style=for-the-badge&logo=intellij&logoColor=white)
     ![pycharm](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![visual studio](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
