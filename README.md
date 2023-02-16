@@ -50,26 +50,18 @@ Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framew
    ![SuperTest](https://img.shields.io/badge/-SuperTest-red)
    ![RestAssured](https://img.shields.io/badge/-RestAssured-green)</br>
    ![Katalon](https://img.shields.io/badge/-KatalonStudio-green)
-   
-
 <br>
-
 - **Cloud Hosting**:
 
     ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
-
 <br>
-
 - **Softwares and Tools**:
-
 
     ![intellij](https://img.shields.io/badge/intellij-%234285F4.svg?style=for-the-badge&logo=intellij&logoColor=white)
     ![pycharm](https://img.shields.io/badge/pycharm-%234285F4.svg?style=for-the-badge&logo=pycharm&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
 <br>    
-
 
 ### Connect with me:
 
