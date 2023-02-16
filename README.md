@@ -78,7 +78,6 @@ Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framew
   <a href="https://msz5213.github.io/gits/"> <img align="left" alt="website-portfolio" width="22px"            src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a> 
   <a href="https://msz5213.github.io/mdzamanportfolio/"> <img align="left" alt="website-portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a> 
   <a href="https://www.linkedin.com/in/zamanmd/"><img align = "left" width="22px" src="https://www.iconsdb.com/icons/preview/blue/linkedin-xxl.png"/>
-  <a href="https://github.com/gits5213?tab=repositories"><img align = "left" width="22px" src="https://www.iconsdb.com/soylent-red-icons/github-10-icon.html"/>
   </a>
   </div>
   
