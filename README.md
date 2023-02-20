@@ -20,10 +20,11 @@ Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framew
 <br>
 
   - I am Passionate, Dynamic, and Innovative.
-  - My Portfolio [Link](https://gits5213.github.io/mdzamanportfolio/)
-  - My React Website [Link](https://gits5213.github.io/gits/)
   - I’m Currently Open for an Independent contributor Job Opportunity.
   - I’m Currently Learning Advanced Python
+  - My Portfolio [Link](https://gits5213.github.io/mdzamanportfolio/)
+  - My React Website [Link](https://gits5213.github.io/gits/)
+  - Find my updated [RESUME](https://github.com/gits5213/mdzamanportfolio/blob/master/src/resourses/resume/Md-Zaman-all-Edited-8-2-23.pdf) 
 <br><br>
 
 
