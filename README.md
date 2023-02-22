@@ -138,6 +138,7 @@ Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framew
 - [Bangladesh Student Batch 2020](https://github.com/gits5213/sqabdautomation)
 
 ## ISTQB
+- [ISTQB Pathshala](https://istqb.patshala.com/)
 - [5 Reasons You Should Take ISTQB exams](https://astqb.org/certifications/#a)
 - [Foundation Level](https://astqb.org/certifications/foundation-level-certification/)
 - [Advance Automation Test](https://astqb.org/certifications/test-automation-engineer-certification/)
