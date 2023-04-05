@@ -140,15 +140,15 @@ Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framew
 ## ISTQB
 - [ISTQB Pathshala](https://istqb.patshala.com/)
 - [5 Reasons You Should Take ISTQB exams](https://astqb.org/certifications/#a)
-- [Foundation Level](https://astqb.org/certifications/foundation-level-certification/)
-- [Advance Automation Test](https://astqb.org/certifications/test-automation-engineer-certification/)
-- [Test Manager](https://astqb.org/certifications/istqb-advanced-level-test-manager-certification/)
-- [Performance Testing](https://astqb.org/certifications/performance-testing-certification/)
+- [Foundation Level](https://astqb.org/certifications/foundation-level-certification/)-PASS
+- [Advance Automation Test](https://astqb.org/certifications/test-automation-engineer-certification/)-PASS
+- [Test Manager](https://astqb.org/certifications/istqb-advanced-level-test-manager-certification/)-PASS
+- [Performance Testing](https://astqb.org/certifications/performance-testing-certification/)-InProgress
 
 ## CompTIA
-- [Pen Test](https://www.comptia.org/certifications/pentest)
-- [Security+](https://www.comptia.org/certifications/security)
-- [CASP+](https://www.comptia.org/certifications/comptia-advanced-security-practitioner)
+- [Pen Test](https://www.comptia.org/certifications/pentest)-InProgreess
+- [Security+](https://www.comptia.org/certifications/security)-InProgress
+- [CASP+](https://www.comptia.org/certifications/comptia-advanced-security-practitioner)-InProgress
 
 
 ## MD's GIST
