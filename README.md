@@ -24,7 +24,11 @@ Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framew
   - I’m Currently Learning Advanced Python
   - My Portfolio [Link](https://gits5213.github.io/mdzamanportfolio/)
   - My React Website [Link](https://gits5213.github.io/gits/)
-  - Find my updated [RESUME](https://github.com/gits5213/mdzamanportfolio/blob/master/src/resourses/resume/Md-Zaman-all-Edited-8-2-23.pdf) 
+  - Find my updated [RESUME](https://github.com/gits5213/mdzamanportfolio/blob/master/src/resourses/resume/Md-Zaman-all-Edited-8-2-23.pdf)
+  - YouTube Channel for [CypressIO](https://www.youtube.com/@CypressIO-tj9cx)
+  - YouTube Channel for [PlayWright](https://www.youtube.com/@gits15mplaywright)
+  - YouTube Channel for [15MinuteLearning](https://www.youtube.com/@GITS15LEARNING)
+    
 <br><br>
 
 
