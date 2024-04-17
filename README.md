@@ -157,7 +157,6 @@ Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framew
 
 ## MD's GIST
 - [All gist](https://gist.github.com/gits5213)
-
-LinkedIn - https://www.linkedin.com/in/zamanmd/
-Website - https://gitsics.com/
-GitHub - https://github.com/gits5213
+- LinkedIn - https://www.linkedin.com/in/zamanmd/
+- Website - https://gitsics.com/
+- GitHub - https://github.com/gits5213
