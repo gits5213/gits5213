@@ -15,7 +15,7 @@ I am a Full-Stack Quality Assurance Engineer, practicing QA principles and metho
 <br>
 
 Expertise in Tech Stack: 
-Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framework: Selenium, CypressIO, Playwright, WebDriverIO, Protractor, Appium, XCUITest, NightWatch, RestAssured, SuperTest, Katalon Studio, Frisby, PyTest, Agile-Scrum, JIRA, Xray, Rally, Zephyr, Adaptavist, ALM, SQL, CodedUI, Swagger, Confluence, POSTMAN, ReadyAPI, Splunk, New Relic, SonarQube & CheckMarx, BigData, Figma, JSON, HTML, PhantomJS, Jupiter notebook, Immuta, JMeter (Backend, AWS S3 Storage & UI Load & Stress test), MySQL, Postgresql, Dbeaver, PGAdmin.
+Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framework: Selenium, CypressIO, Playwright, WebDriverIO, Protractor, Appium, XCUITest, NightWatch, SpecFlow, RestSharp, RestAssured, SuperTest, Katalon Studio, Tricentis Tosca, Frisby, PyTest, Agile-Scrum, JIRA, Xray, Rally, Zephyr, Adaptavist, ALM, SQL, CodedUI, Swagger, Confluence, POSTMAN, ReadyAPI, Splunk, New Relic, SonarQube & CheckMarx, BigData, Figma, JSON, HTML, PhantomJS, Jupiter notebook, Immuta, JMeter (Backend, AWS S3 Storage & UI Load & Stress test), MySQL, Postgresql, Dbeaver, PGAdmin, ETL, Snowflake.
 
 <br>
 
