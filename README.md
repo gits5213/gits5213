@@ -20,12 +20,12 @@ RestAssured, SuperTest, Katalon Studio, Tricentis Tosca, Frisby, PyTest, Agile-S
 
 <br>
 
-  - I am Passionate, Dynamic, and Innovative.
-  - I’m Currently Open for an Independent contributor Job Opportunity.
-  - I’m Currently Learning Advanced Python
+  - Driven by passion, dynamism, and innovation, I am actively seeking an independent contributor role where I can leverage my skills and experience.
+  - With a focus on growth, I am advancing my Python expertise, and am eager to bring enhanced value to my next professional opportunity.
+  - Open to exciting challenges, I aim to make a meaningful impact as a highly-skilled independent contributor.
   - My Portfolio [Link](https://gits5213.github.io/mdzamanportfolio/)
   - My React Website [Link](https://gits5213.github.io/gits/)
-  - Find my updated [RESUME](https://github.com/gits5213/mdzamanportfolio/blob/master/src/resourses/resume/Md-Zaman-all-Edited-8-2-23.pdf)
+  - Find my updated [RESUME](https://github.com/gits5213/mdzamanportfolio/blob/master/src/resourses/resume/Md%20Zaman%20-%20Resume.pdf)
   - YouTube Channel for [CypressIO](https://www.youtube.com/@CypressIO-tj9cx)
   - YouTube Channel for [PlayWright](https://www.youtube.com/@gits15mplaywright)
   - YouTube Channel for [15MinuteLearning](https://www.youtube.com/@GITS15LEARNING)
