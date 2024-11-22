@@ -148,12 +148,15 @@ RestAssured, SuperTest, Katalon Studio, Tricentis Tosca, Frisby, PyTest, Agile-S
 - [Foundation Level](https://astqb.org/certifications/foundation-level-certification/) [PASS]
 - [Advance Automation Test](https://astqb.org/certifications/test-automation-engineer-certification/) [PASS]
 - [Test Manager](https://astqb.org/certifications/istqb-advanced-level-test-manager-certification/) [PASS]
-- [Performance Testing](https://astqb.org/certifications/performance-testing-certification/) [InProgress...]
+- [CompTIA Security+](https://www.comptia.org/certifications/security) [PASS]
+- [Scrum Master](https://www.scrum.org/) [PASS]
+- [DHS Trusted Tester](https://www.dhs.gov/trusted-tester) [PASS]
+- [Tricentis Tosca Test Architect](https://academy.tricentis.com/learn/mycourses) [PASS]
+- [Certified SAFe® 4 Agilist](https://scaledagile.com/safe-certification/) [PASS]
 
 ## CompTIA
 - [Pen Test](https://www.comptia.org/certifications/pentest) [InProgreess...]
-- [Security+](https://www.comptia.org/certifications/security) [InProgress...]
-- [CASP+](https://www.comptia.org/certifications/comptia-advanced-security-practitioner) [InProgress...]
+
 
 
 ## MD's GIST
