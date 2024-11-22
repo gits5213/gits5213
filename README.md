@@ -77,7 +77,7 @@ RestAssured, SuperTest, Katalon Studio, Tricentis Tosca, Frisby, PyTest, Agile-S
 
 <div style="background-color:rgba(222, 222, 222, 1); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
   <a href="https://gitsics.com/"> <img align="left" alt="website-portfolio" width="22px"            src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a> 
-  <a href="https://msz5213.github.io/mdzamanportfolio/"> <img align="left" alt="website-portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a> 
+  <a href="https://gits5213.github.io/mdzamanportfolio/"> <img align="left" alt="website-portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a> 
   <a href="https://www.linkedin.com/in/zamanmd/"><img align = "left" width="22px" src="https://www.iconsdb.com/icons/preview/blue/linkedin-xxl.png"/>
   </a>
   </div>
