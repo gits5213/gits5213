@@ -94,10 +94,10 @@ RestAssured, SuperTest, Katalon Studio, Tricentis Tosca, Frisby, PyTest, Agile-S
 ## Standards & best practices docs
 - [Full Stack QA Standards](https://github.com/gits5213/StandardsReadME)
 
-## Books
+## Books 📚
 - [Books](https://github.com/msz5213/Books)
 
-## Personal web development projects
+## Personal web development projects 💁
 - [Personal Portfolio](https://github.com/gits5213/mdzamanportfolio)
 - [Personal React WebSite](https://github.com/gits5213/gits)
 - [Personal TODO Project](https://github.com/gits5213/todolist)
