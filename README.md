@@ -7,7 +7,7 @@
   <img src="https://profile-counter.glitch.me/msz5213/count.svg" />
 </p>
 
-## <picture>:computer:</picture> **About me**
+## 💻  **About me**
 
 <br>
 
