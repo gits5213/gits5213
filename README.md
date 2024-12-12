@@ -12,7 +12,6 @@
 <br>
 An experienced IT leader with over 15 years of expertise in the Quality Assurance discipline, specializing in software and hardware testing. Adept at managing cross-functional teams, driving innovation through Agile/Scrum methodologies, and delivering high-quality products within strict deadlines. Strong problem-solving and communication skills with a track record of leading large-scale projects and full-stack automation initiatives.
 
-<br>
 **Key Highlights**:
 - ☞ Proven track record in mentoring QA Analysts and Technical Support Engineers.
 - ☞ Extensive experience with Agile/Scrum, SAFe methodologies, Shift-left, & SDLC/STLC processes.
@@ -21,7 +20,7 @@ An experienced IT leader with over 15 years of expertise in the Quality Assuranc
 - ☞ Strong analytical, communication, problem-solving skills, and ensuring attention to detail & delivering exceptional customer service.
 
 Let's connect and discuss how my expertise can contribute to the success of your projects! 🚀
-<br>
+<br/>
 <br>
 **Expertise in Tech Stack**: 
 - ☞ IDE | EDITOR: VS Code, IntelliJ, Eclipse, Jupiter notebook
@@ -36,7 +35,7 @@ Let's connect and discuss how my expertise can contribute to the success of your
 - ☞ Architecture | Design | Prototype Management: Figma, Draw IO, 
 - ☞ CI/CD | Pipeline | Server: AWS, Azure, GitHub Action
 - ☞ Performance Testing: JMeter (Backend, AWS S3 Storage & UI Load & Stress test)
-<br>
+<br/>
 <br>
 
 - ☞ Driven by passion, dynamism, and innovation, I am actively seeking an independent contributor role where I can leverage my skills and experience.
@@ -49,10 +48,11 @@ Let's connect and discuss how my expertise can contribute to the success of your
 - ☞ YouTube Channel for [PlayWright](https://www.youtube.com/@gits15mplaywright)
 - ☞ YouTube Channel for [15MinuteLearning](https://www.youtube.com/@GITS15LEARNING)
     
-<br><br>
+<br/>
+<br>
 
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br/>
 
 
 - **Quality Assurance Tech Stack:**
