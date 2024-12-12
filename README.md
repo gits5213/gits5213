@@ -19,10 +19,9 @@ Key Highlights:
 - ☞ Adept at delivering presentations, ensuring compliance with public law, and maintaining relevance to business needs.
 - ☞ Strong analytical, communication, problem-solving skills, and ensuring attention to detail & delivering exceptional customer service.
 
-<br>
 Let's connect and discuss how my expertise can contribute to the success of your projects! 🚀
 <br>
-
+<br>
 Expertise in Tech Stack: 
 - ☞ IDE | EDITOR: VS Code, IntelliJ, Eclipse, Jupiter notebook
 - ☞ Programing Language: Python, Java, C#.Net & Javascript, NodeJS JSON, HTML, CSS 
