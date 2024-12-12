@@ -160,8 +160,8 @@ Let's connect and discuss how my expertise can contribute to the success of your
 - [Bangladesh Student Batch 2020](https://github.com/gits5213/sqabdautomation)
 
 ## Digital Badges
-- [Credly} (https://www.credly.com/users/md-zaman.7c37c39b/)
-- [ASTQB-ISTQB] (https://atsqa.org/certified-testers/profile/adf4f235737b476290ec4b903dc2366a)
+- [Credly](https://www.credly.com/users/md-zaman.7c37c39b/)
+- [ASTQB-ISTQB](https://atsqa.org/certified-testers/profile/adf4f235737b476290ec4b903dc2366a)
   
 ## Certifications
 - [ISTQB Pathshala](https://istqb.patshala.com/)
