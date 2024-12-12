@@ -15,28 +15,28 @@ An experienced IT leader with over 15 years of expertise in the Quality Assuranc
 
 <br>
 Key Highlights:
-☞ Proven track record in mentoring QA Analysts and Technical Support Engineers.
-☞ Extensive experience with Agile/Scrum, SAFe methodologies, Shift-left, & SDLC/STLC processes.
-☞ Expert in full-stack automation, technical documentation, and hands-on coding.
-☞ Adept at delivering presentations, ensuring compliance with public law, and maintaining relevance to business needs.
-☞ Strong analytical, communication, problem-solving skills, and ensuring attention to detail & delivering exceptional customer service.
+- ☞ Proven track record in mentoring QA Analysts and Technical Support Engineers.
+- ☞ Extensive experience with Agile/Scrum, SAFe methodologies, Shift-left, & SDLC/STLC processes.
+- ☞ Expert in full-stack automation, technical documentation, and hands-on coding.
+- ☞ Adept at delivering presentations, ensuring compliance with public law, and maintaining relevance to business needs.
+- ☞ Strong analytical, communication, problem-solving skills, and ensuring attention to detail & delivering exceptional customer service.
 
 Let's connect and discuss how my expertise can contribute to the success of your projects! 🚀
 <br>
 
 Expertise in Tech Stack: 
-☞ IDE | EDITOR: VS Code, IntelliJ, Eclipse, Jupiter notebook
-☞ Programing Language: Python, Java, C#.Net & Javascript, NodeJS JSON, HTML, CSS 
-☞ Automation Framework: Selenium, CypressIO, Playwright, AccelQ, Katalon Studio, Tricentis Tosca, WebDriverIO, Protractor, Appium, XCUITest, NightWatch, SpecFlow, RestSharp, RestAssured, SuperTest, Frisby, PyTest, CodedUI, PhantomJS, ReadyAPI, Cucumber, Gauge
-☞ Process | Project | Test Case | Bug | Document Management: Agile-Scrum, JIRA, Xray, Rally, Zephyr, Adaptavist, ALM, Confluence
-☞ Source Code Management: Git, GitHub, Bitbucket, GitLab, SVN, AWS, Atlassian suite
-☞ Database Management: SQL, MySQL, PostgreSQL, OracleDB, BigData, Immuta, Dbeaver, PGAdmin, ETL, Snowflake
-☞ API Management: Swagger, POSTMAN, ReadyAPI
-☞ Application Monitoring: Splunk, New Relic
-☞ Compliance Management: SonarQube & CheckMarx
-☞ Architecture | Design | Prototype Management: Figma, Draw IO, 
-☞ CI/CD | Pipeline | Server: AWS, Azure, GitHub Action
-☞ Performance Testing: JMeter (Backend, AWS S3 Storage & UI Load & Stress test)
+- ☞ IDE | EDITOR: VS Code, IntelliJ, Eclipse, Jupiter notebook
+- ☞ Programing Language: Python, Java, C#.Net & Javascript, NodeJS JSON, HTML, CSS 
+- ☞ Automation Framework: Selenium, CypressIO, Playwright, AccelQ, Katalon Studio, Tricentis Tosca, WebDriverIO, Protractor, Appium, XCUITest, NightWatch, SpecFlow, RestSharp, RestAssured, SuperTest, Frisby, PyTest, CodedUI, PhantomJS, ReadyAPI, Cucumber, Gauge
+- ☞ Process | Project | Test Case | Bug | Document Management: Agile-Scrum, JIRA, Xray, Rally, Zephyr, Adaptavist, ALM, Confluence
+- ☞ Source Code Management: Git, GitHub, Bitbucket, GitLab, SVN, AWS, Atlassian suite
+- ☞ Database Management: SQL, MySQL, PostgreSQL, OracleDB, BigData, Immuta, Dbeaver, PGAdmin, ETL, Snowflake
+- ☞ API Management: Swagger, POSTMAN, ReadyAPI
+- ☞ Application Monitoring: Splunk, New Relic
+- ☞ Compliance Management: SonarQube & CheckMarx
+- ☞ Architecture | Design | Prototype Management: Figma, Draw IO, 
+- ☞ CI/CD | Pipeline | Server: AWS, Azure, GitHub Action
+- ☞ Performance Testing: JMeter (Backend, AWS S3 Storage & UI Load & Stress test)
 
 <br>
 
