@@ -99,6 +99,8 @@ Let's connect and discuss how my expertise can contribute to the success of your
   <a href="https://gits5213.github.io/mdzamanportfolio/"> <img align="left" alt="website-portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a> 
   <a href="https://www.linkedin.com/in/zamanmd/"><img align = "left" width="22px" src="https://www.iconsdb.com/icons/preview/blue/linkedin-xxl.png"/>
   </a>
+  <a href="https://www.credly.com/users/md-zaman.7c37c39b/"><img align = "left" width="22px" src="https://www.google.com/imgres?q=credly%20images&imgurl=https%3A%2F%2Fimages.credly.com%2Fimages%2Fc4689f29-3940-42ca-823e-340ea05dd936%2Fblob&imgrefurl=https%3A%2F%2Fwww.credly.com%2Forg%2Fcredly&docid=xF68YYx4YL-V-M&tbnid=OBDLaFpP1-F_1M&vet=12ahUKEwiw66bd56KKAxXhvokEHR2eFigQM3oECBYQAA..i&w=600&h=600&hcb=2&ved=2ahUKEwiw66bd56KKAxXhvokEHR2eFigQM3oECBYQAA"/>
+  </a>
   </div>
   
   <br>
