@@ -35,9 +35,7 @@ Expertise in Tech Stack:
 - ☞ Architecture | Design | Prototype Management: Figma, Draw IO, 
 - ☞ CI/CD | Pipeline | Server: AWS, Azure, GitHub Action
 - ☞ Performance Testing: JMeter (Backend, AWS S3 Storage & UI Load & Stress test)
-<br>
-<br>
-Personal Strengths:
+
   - ☞ Driven by passion, dynamism, and innovation, I am actively seeking an independent contributor role where I can leverage my skills and experience.
   - ☞ With a focus on growth, I am advancing my Python expertise, and am eager to bring enhanced value to my next professional opportunity.
   - ☞ Open to exciting challenges, I aim to make a meaningful impact as a highly-skilled independent contributor.
