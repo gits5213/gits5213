@@ -99,8 +99,6 @@ Let's connect and discuss how my expertise can contribute to the success of your
   <a href="https://gits5213.github.io/mdzamanportfolio/"> <img align="left" alt="website-portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a> 
   <a href="https://www.linkedin.com/in/zamanmd/"><img align = "left" width="22px" src="https://www.iconsdb.com/icons/preview/blue/linkedin-xxl.png"/>
   </a>
-  <a href="https://www.credly.com/users/md-zaman.7c37c39b/"><img align = "left" width="22px" src="https://www.iconsdb.com/caribbean-blue-icons/circle-icon.html"/>
-  </a>
   </div>
   
   <br>
@@ -151,19 +149,21 @@ Let's connect and discuss how my expertise can contribute to the success of your
 - [NightWatch UI Framework](https://github.com/gits5213/NightwatchPublic)
 - [ES6 Cheetsheet](https://github.com/gits5213/ES6-Cheetsheets)
 
-
 ## Private repository
 - [GIT's Independent Company Works](https://github.com/gits5213/company)
 
 ## GitHub Emoji
 - [GitHub Emoji](https://github.com/gits5213/Github-emoji)
 
-
 ## Students repository
 - [Bangladesh Student Batch 2023](https://github.com/gits5213/students2023)
 - [Bangladesh Student Batch 2020](https://github.com/gits5213/sqabdautomation)
 
-## ISTQB
+## Digital Badges
+- [Credly} (https://www.credly.com/users/md-zaman.7c37c39b/)
+- [ASTQB-ISTQB] (https://atsqa.org/certified-testers/profile/adf4f235737b476290ec4b903dc2366a)
+  
+## Certifications
 - [ISTQB Pathshala](https://istqb.patshala.com/)
 - [5 Reasons You Should Take ISTQB exams](https://astqb.org/certifications/#a)
 - [Foundation Level](https://astqb.org/certifications/foundation-level-certification/) [PASS]
@@ -174,11 +174,7 @@ Let's connect and discuss how my expertise can contribute to the success of your
 - [DHS Trusted Tester](https://www.dhs.gov/trusted-tester) [PASS]
 - [Tricentis Tosca Test Architect](https://academy.tricentis.com/learn/mycourses) [PASS]
 - [Certified SAFe® 4 Agilist](https://scaledagile.com/safe-certification/) [PASS]
-
-## CompTIA
-- [Pen Test](https://www.comptia.org/certifications/pentest) [InProgreess...]
-
-
+- [CompTIA-Pen Test](https://www.comptia.org/certifications/pentest) [InProgreess...]
 
 ## MD's GIST
 - [All gist](https://gist.github.com/gits5213)
