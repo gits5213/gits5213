@@ -36,7 +36,7 @@ Let's connect and discuss how my expertise can contribute to the success of your
 - ☞ Architecture | Design | Prototype Management: Figma, Draw IO, 
 - ☞ CI/CD | Pipeline | Server: AWS, Azure, GitHub Action
 - ☞ Performance Testing: JMeter (Backend, AWS S3 Storage & UI Load & Stress test) 
-<br/>
+<br>
 <br>
 **Personal Strengths**:
 - ☞ Driven by passion, dynamism, and innovation, I am actively seeking an independent contributor role where I can leverage my skills and experience.
