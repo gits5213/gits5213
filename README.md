@@ -11,12 +11,31 @@
 
 <br>
 
-I am a Full-Stack Quality Assurance Engineer, practicing QA principles and methodologies, and quite a long time of managing, supervising, mentoring, and leading full-stack testing efforts & hands-on coding, leading with the ability to collaborate with software development in all phases of the SDLC & STLC, including planning, coding, testing, troubleshooting, deploying, and ongoing QA full-stack automation code maintenance & delivering right product on time.
+An experienced IT leader with over 15 years of expertise in the Quality Assurance discipline, specializing in software and hardware testing. Adept at managing cross-functional teams, driving innovation through Agile/Scrum methodologies, and delivering high-quality products within strict deadlines. Strong problem-solving and communication skills with a track record of leading large-scale projects and full-stack automation initiatives.
+
+Key Highlights:
+☞ Proven track record in mentoring QA Analysts and Technical Support Engineers.
+☞ Extensive experience with Agile/Scrum, SAFe methodologies, Shift-left, & SDLC/STLC processes.
+☞ Expert in full-stack automation, technical documentation, and hands-on coding.
+☞ Adept at delivering presentations, ensuring compliance with public law, and maintaining relevance to business needs.
+☞ Strong analytical, communication, problem-solving skills, and ensuring attention to detail & delivering exceptional customer service.
+
+Let's connect and discuss how my expertise can contribute to the success of your projects! 🚀
 <br>
 
 Expertise in Tech Stack: 
-Programing Language: Python, Java, C#.Net & Javascript, NodeJS Automation Framework: Selenium, CypressIO, Playwright, WebDriverIO, Protractor, Appium, XCUITest, NightWatch, SpecFlow, RestSharp, CodedUI,
-RestAssured, SuperTest, Katalon Studio, Tricentis Tosca, Frisby, PyTest, Agile-Scrum, JIRA, Xray, Rally, Zephyr, Adaptavist, ALM, SQL, CodedUI, Swagger, Confluence, POSTMAN, ReadyAPI, Splunk, New Relic, SonarQube & CheckMarx, BigData, Figma, JSON, HTML, PhantomJS, Jupiter notebook, Immuta, JMeter (Backend, AWS S3 Storage & UI Load & Stress test), MySQL, Postgresql, Dbeaver, PGAdmin, ETL, Snowflake.
+☞ IDE | EDITOR: VS Code, IntelliJ, Eclipse, Jupiter notebook
+☞ Programing Language: Python, Java, C#.Net & Javascript, NodeJS JSON, HTML, CSS 
+☞ Automation Framework: Selenium, CypressIO, Playwright, AccelQ, Katalon Studio, Tricentis Tosca, WebDriverIO, Protractor, Appium, XCUITest, NightWatch, SpecFlow, RestSharp, RestAssured, SuperTest, Frisby, PyTest, CodedUI, PhantomJS, ReadyAPI, Cucumber, Gauge
+☞ Process | Project | Test Case | Bug | Document Management: Agile-Scrum, JIRA, Xray, Rally, Zephyr, Adaptavist, ALM, Confluence
+☞ Source Code Management: Git, GitHub, Bitbucket, GitLab, SVN, AWS, Atlassian suite
+☞ Database Management: SQL, MySQL, PostgreSQL, OracleDB, BigData, Immuta, Dbeaver, PGAdmin, ETL, Snowflake
+☞ API Management: Swagger, POSTMAN, ReadyAPI
+☞ Application Monitoring: Splunk, New Relic
+☞ Compliance Management: SonarQube & CheckMarx
+☞ Architecture | Design | Prototype Management: Figma, Draw IO, 
+☞ CI/CD | Pipeline | Server: AWS, Azure, GitHub Action
+☞ Performance Testing: JMeter (Backend, AWS S3 Storage & UI Load & Stress test)
 
 <br>
 
