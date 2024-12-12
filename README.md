@@ -11,8 +11,9 @@
 
 <br>
 An experienced IT leader with over 15 years of expertise in the Quality Assurance discipline, specializing in software and hardware testing. Adept at managing cross-functional teams, driving innovation through Agile/Scrum methodologies, and delivering high-quality products within strict deadlines. Strong problem-solving and communication skills with a track record of leading large-scale projects and full-stack automation initiatives.
-
-Key Highlights:
+<br>
+<br>
+**Key Highlights**:
 - ☞ Proven track record in mentoring QA Analysts and Technical Support Engineers.
 - ☞ Extensive experience with Agile/Scrum, SAFe methodologies, Shift-left, & SDLC/STLC processes.
 - ☞ Expert in full-stack automation, technical documentation, and hands-on coding.
@@ -22,7 +23,7 @@ Key Highlights:
 Let's connect and discuss how my expertise can contribute to the success of your projects! 🚀
 <br>
 <br>
-Expertise in Tech Stack: 
+**Expertise in Tech Stack**: 
 - ☞ IDE | EDITOR: VS Code, IntelliJ, Eclipse, Jupiter notebook
 - ☞ Programing Language: Python, Java, C#.Net & Javascript, NodeJS JSON, HTML, CSS 
 - ☞ Automation Framework: Selenium, CypressIO, Playwright, AccelQ, Katalon Studio, Tricentis Tosca, WebDriverIO, Protractor, Appium, XCUITest, NightWatch, SpecFlow, RestSharp, RestAssured, SuperTest, Frisby, PyTest, CodedUI, PhantomJS, ReadyAPI, Cucumber, Gauge
@@ -35,13 +36,12 @@ Expertise in Tech Stack:
 - ☞ Architecture | Design | Prototype Management: Figma, Draw IO, 
 - ☞ CI/CD | Pipeline | Server: AWS, Azure, GitHub Action
 - ☞ Performance Testing: JMeter (Backend, AWS S3 Storage & UI Load & Stress test)
+<br>
+<br>
 
-<br>
-<br>
-Personal Strengths:
 - ☞ Driven by passion, dynamism, and innovation, I am actively seeking an independent contributor role where I can leverage my skills and experience.
 - ☞ With a focus on growth, I am advancing my Python expertise, and am eager to bring enhanced value to my next professional opportunity.
-- ☞ Open to exciting challenges, I aim to make a meaningful impact as a highly-skilled independent contributor.
+- ☞ Open to exciting challenges, I aim to make a meaningful impact as a highly skilled independent contributor.
 - ☞ My Portfolio [Link](https://gits5213.github.io/mdzamanportfolio/)
 - ☞ My React Website [Link](https://gits5213.github.io/gits/)
 - ☞ Find my updated [RESUME](https://github.com/gits5213/mdzamanportfolio/blob/master/src/resourses/resume/Md%20Zaman%20-%20Resume.pdf)
