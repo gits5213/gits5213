@@ -174,10 +174,12 @@ Let's connect and discuss how my expertise can contribute to the success of your
 - [DHS Trusted Tester](https://www.dhs.gov/trusted-tester) [PASS]
 - [Tricentis Tosca Test Architect](https://academy.tricentis.com/learn/mycourses) [PASS]
 - [Certified SAFe® 4 Agilist](https://scaledagile.com/safe-certification/) [PASS]
+- [Certified SAFe® 6 Practitioner](https://scaledagile.com/safe-certification/) [PASS]
 - [CompTIA-Pen Test](https://www.comptia.org/certifications/pentest) [InProgreess...]
 
-## MD's GIST
+## MD's Resources
 - [All gist](https://gist.github.com/gits5213)
-- LinkedIn - https://www.linkedin.com/in/zamanmd/
-- Website - https://gitsics.com/
-- GitHub - https://github.com/gits5213
+- [LinkedIn](https://www.linkedin.com/in/zamanmd/)
+- [Website](https://gitsics.com/)
+- [GitHub](https://github.com/gits5213)
+- [NPM Packages](https://www.npmjs.com/settings/gits5213/packages) 
