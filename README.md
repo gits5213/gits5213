@@ -25,7 +25,7 @@ Let's connect and discuss how my expertise can contribute to the success of your
 <br>
 **Expertise in Tech Stack**: 
 - ☞ IDE | EDITOR: VS Code, IntelliJ, Eclipse, Jupiter notebook
-- ☞ Programing Language: Python, Java, C#.Net & Javascript, NodeJS JSON, HTML, CSS 
+- ☞ Programming Language: Python, Java, C#.Net & Javascript, NodeJS, JSON, HTML, CSS 
 - ☞ Automation Framework: Selenium, CypressIO, Playwright, AccelQ, Katalon Studio, Tricentis Tosca, WebDriverIO, Protractor, Appium, XCUITest, NightWatch, SpecFlow, RestSharp, RestAssured, SuperTest, Frisby, PyTest, CodedUI, PhantomJS, ReadyAPI, Cucumber, Gauge
 - ☞ Process | Project | Test Case | Bug | Document Management: Agile-Scrum, JIRA, Xray, Rally, Zephyr, Adaptavist, ALM, Confluence
 - ☞ Source Code Management: Git, GitHub, Bitbucket, GitLab, SVN, AWS, Atlassian suite
@@ -33,13 +33,13 @@ Let's connect and discuss how my expertise can contribute to the success of your
 - ☞ API Management: Swagger, POSTMAN, ReadyAPI
 - ☞ Application Monitoring: Splunk, New Relic
 - ☞ Compliance Management: SonarQube & CheckMarx
-- ☞ Architecture | Design | Prototype Management: Figma, Draw IO, 
+- ☞ Architecture | Design | Prototype Management: Figma, Draw.io, 
 - ☞ CI/CD | Pipeline | Server: AWS, Azure, GitHub Action
 - ☞ Performance Testing: JMeter (Backend, AWS S3 Storage & UI Load & Stress test) 
 <br>
 
-- ☞ Driven by passion, dynamism, and innovation, I am actively seeking an independent contributor role where I can leverage my skills and experience.
-- ☞ With a focus on growth, I am advancing my Python expertise, and am eager to bring enhanced value to my next professional opportunity.
+- ☞ Driven by passion, dynamism, and innovation, I actively seek an independent contributor role where I can leverage my skills and experience.
+- ☞ With a focus on growth, I am advancing my Python expertise and am eager to bring enhanced value to my next professional opportunity.
 - ☞ Open to exciting challenges, I aim to make a meaningful impact as a highly skilled independent contributor.
 - ☞ My Portfolio [Link](https://gits5213.github.io/mdzamanportfolio/)
 - ☞ My React Website [Link](https://gits5213.github.io/gits/)
@@ -118,7 +118,7 @@ Let's connect and discuss how my expertise can contribute to the success of your
 
 ## Personal web development projects 💁
 - [Personal Portfolio](https://github.com/gits5213/mdzamanportfolio)
-- [Personal React WebSite](https://github.com/gits5213/gits)
+- [Personal React Website](https://github.com/gits5213/gits)
 - [Personal TODO Project](https://github.com/gits5213/todolist)
 - [Personal Student Subscription Project](https://github.com/gits5213/student-subscription)
 
@@ -127,7 +127,7 @@ Let's connect and discuss how my expertise can contribute to the success of your
 - [Java Selenium Practice Interview Project](https://github.com/gits5213/InterviewProject)
 
 ## CI/CD
-- [Jenkin pipeline setUp](https://github.com/gits5213/jenkins)
+- [Jenkins pipeline setUp](https://github.com/gits5213/jenkins)
 
 ## Performance JMeter framework
 - [JMeter Performance Framework](https://github.com/gits5213/jmeter)
@@ -135,13 +135,13 @@ Let's connect and discuss how my expertise can contribute to the success of your
 ## Public repository (JAVA)
 - [Interview Bullish UI&API Project](https://github.com/gits5213/bullish)
 - [Java RestAssured Maven Project](https://github.com/gits5213/RESTfullRestAssuredTestAutomation/tree/master/RESTfullRestAssuredAPIAutomation)
-- [Java Selenium UI Framewrok](https://github.com/gits5213/AutomationFramewok)
+- [Java Selenium UI Framework](https://github.com/gits5213/AutomationFramewok)
 - [Java Selenium UI Framework](https://github.com/gits5213/POM_TestNG_CompleteFramework)
 - [Java Selenium UI Practice Project](https://github.com/gits5213/Daily_PracticeTest)
 - [Java Selenium UI Framework](https://github.com/gits5213/LearningAutomationEndToEnd/tree/master/ScratchSeleniumAPISProject)
-- [Java PlayWright UI Framewrok](https://github.com/gits5213/Playwright/tree/master/javaBoilerplate)
+- [Java Playwright UI Framework](https://github.com/gits5213/Playwright/tree/master/javaBoilerplate)
 
-## Public Repository (Javascript) 
+## Public Repository (JavaScript) 
 - [CypressIO Old UI Framework](https://github.com/gits5213/cypresse2e)
 - [Protractor Framework](https://github.com/gits5213/ProtractorPublic)
 - [SuperTest Framework](https://github.com/gits5213/RESTfulSuperTestAutomation/tree/master/SuperTestMocha)
@@ -162,8 +162,10 @@ Let's connect and discuss how my expertise can contribute to the success of your
 ## Digital Badges
 - [Credly](https://www.credly.com/users/md-zaman.7c37c39b/)
 - [ASTQB-ISTQB](https://atsqa.org/certified-testers/profile/adf4f235737b476290ec4b903dc2366a)
+- [Certifyme](https://www.wallet.certifyme.online/)
   
 ## Certifications
+- [AWS solutions architect](https://www.credly.com/badges/1ce3213f-8974-4cbf-becb-7a197362b5e9/linked_in_profile)
 - [ISTQB Pathshala](https://istqb.patshala.com/)
 - [5 Reasons You Should Take ISTQB exams](https://astqb.org/certifications/#a)
 - [Foundation Level](https://astqb.org/certifications/foundation-level-certification/) [PASS]
@@ -176,11 +178,13 @@ Let's connect and discuss how my expertise can contribute to the success of your
 - [Certified SAFe® 4 Agilist](https://scaledagile.com/safe-certification/) [PASS]
 - [Certified SAFe® 6 Practitioner](https://scaledagile.com/safe-certification/) [PASS]
 - [CompTIA-Pen Test](https://www.comptia.org/certifications/pentest) [InProgreess...]
+- [ACCELQ - Automation Engineer](https://www.wallet.certifyme.online/)
 
 ## MD's Resources
 - [Roadmaps](https://roadmap.sh/u/gitsics)
 - [All gist](https://gist.github.com/gits5213)
 - [LinkedIn](https://www.linkedin.com/in/zamanmd/)
 - [Website](https://gitsics.com/)
+- [Website]([https://gitsics.com/](https://gits5213.github.io/gits/))
 - [GitHub](https://github.com/gits5213)
 - [NPM Packages](https://www.npmjs.com/settings/gits5213/packages) 
