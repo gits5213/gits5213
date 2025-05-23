@@ -25,7 +25,7 @@ Let's connect and discuss how my expertise can contribute to the success of your
 <br>
 **Expertise in Tech Stack**: 
 - ☞ IDE | EDITOR: VS Code, IntelliJ, Eclipse, Jupiter notebook
-- ☞ Programming Language: Python, Java, C#.Net & Javascript, NodeJS, JSON, HTML, CSS 
+- ☞ Programming Language: Python, Java, C #. Net & Javascript, NodeJS, JSON, HTML, CSS 
 - ☞ Automation Framework: Selenium, CypressIO, Playwright, AccelQ, Katalon Studio, Tricentis Tosca, WebDriverIO, Protractor, Appium, XCUITest, NightWatch, SpecFlow, RestSharp, RestAssured, SuperTest, Frisby, PyTest, CodedUI, PhantomJS, ReadyAPI, Cucumber, Gauge
 - ☞ Process | Project | Test Case | Bug | Document Management: Agile-Scrum, JIRA, Xray, Rally, Zephyr, Adaptavist, ALM, Confluence
 - ☞ Source Code Management: Git, GitHub, Bitbucket, GitLab, SVN, AWS, Atlassian suite
