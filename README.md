@@ -9,12 +9,8 @@
 
 ## 💻  **About me** 👨 
 <p align="center"> 
-<img width="50%" alt="MDOfficeDesk" src="https://github.com/user-attachments/assets/a02f3341-a80a-457e-af4f-961ba8a24d7f" />
+<img width="50%" alt="MDZamanOfficeDesk" src="https://github.com/user-attachments/assets/7bbfc695-01c2-4285-b5e9-195a8b4d1ed8" />
 </p>
-<p align="center"> 
-![MDZamanVirtualOffice](https://github.com/user-attachments/assets/12be4f70-a075-4b34-b360-7dfe6b9a153a)
-</p>
-
 <br>
 An experienced IT leader with over 15 years of expertise in the Quality Assurance discipline, specializing in software and hardware testing. Adept at managing cross-functional teams, driving innovation through Agile/Scrum methodologies, and delivering high-quality products within strict deadlines. Strong problem-solving and communication skills with a track record of leading large-scale projects and full-stack automation initiatives.<br/>
 <br/>
