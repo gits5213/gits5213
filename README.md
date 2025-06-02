@@ -8,7 +8,7 @@
 </p>
 
 ## 💻  **About me** 👨 
-<p align="center"> 
+<p align="center" border-radius="80%"> 
 <img align="center" width="50%" alt="MDOfficeDesk" src="https://github.com/user-attachments/assets/a02f3341-a80a-457e-af4f-961ba8a24d7f" />
 </p>
 <br>
