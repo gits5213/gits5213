@@ -8,7 +8,7 @@
 </p>
 
 ## 💻  **About me** 👨 
-<img width="277" alt="Screenshot 2025-06-02 at 12 47 25 PM" src="https://github.com/user-attachments/assets/a02f3341-a80a-457e-af4f-961ba8a24d7f" />
+<img width="500" alt="Screenshot 2025-06-02 at 12 47 25 PM" src="https://github.com/user-attachments/assets/a02f3341-a80a-457e-af4f-961ba8a24d7f" />
 
 
 <br>
