@@ -180,7 +180,7 @@ Let's connect and discuss how my expertise can contribute to the success of your
 - [Certified SAFe® 4 Agilist](https://scaledagile.com/safe-certification/) [PASS]
 - [Certified SAFe® 6 Practitioner](https://scaledagile.com/safe-certification/) [PASS]
 - [CompTIA-Pen Test](https://www.comptia.org/certifications/pentest) [InProgreess...]
-- [ACCELQ - Automation Engineer]([https://www.wallet.certifyme.online/](https://certificate.accelq.com/verify/b02e3532689)
+- [ACCELQ - Automation Engineer](https://certificate.accelq.com/verify/b02e3532689)
 
 ## MD's Resources
 - [Roadmaps](https://roadmap.sh/u/gitsics)
