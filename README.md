@@ -118,7 +118,9 @@ Banking • Finance • Trading • Ecommerce • Insurance • Health • Digit
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gits5213&theme=github-compact" alt="GitHub Activity Graph" />
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=gits5213&theme=github-compact&bg_color=ffffff&color=000000&line=0366d6&point=24292e&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  </a>
 </div>
 
 ---
