@@ -1,192 +1,259 @@
-<p align="center"> 
-<img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
-</p>
+<div align="center">
+  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="20%">
+</div>
 
-<p align="center"> 
-  Visitor count<br>
+<div align="center">
+  <h3>👋 Visitor Count</h3>
   <img src="https://komarev.com/ghpvc/?username=gits5213&color=blueviolet&style=flat-square&base=10234" alt="gits5213" />
-</p>
+</div>
 
-## 💻  **About me** 👨 
-<p align="center"> 
-<img width="50%" alt="MDZamanOfficeDesk" src="https://github.com/user-attachments/assets/7bbfc695-01c2-4285-b5e9-195a8b4d1ed8" />
-</p>
-<br>
-An experienced IT leader with over 15 years of expertise in the Quality Assurance discipline, specializing in software and hardware testing. Adept at managing cross-functional teams, driving innovation through Agile/Scrum methodologies, and delivering high-quality products within strict deadlines. Strong problem-solving and communication skills with a track record of leading large-scale projects and full-stack automation initiatives.<br/>
-<br/>
+---
 
-**Key Highlights**:
-- ☞ Proven track record in mentoring QA Analysts and Technical Support Engineers.
-- ☞ Extensive experience with Agile/Scrum, SAFe methodologies, Shift-left, & SDLC/STLC processes.
-- ☞ Expert in full-stack automation, technical documentation, and hands-on coding.
-- ☞ Adept at delivering presentations, ensuring compliance with public law, and maintaining relevance to business needs.
-- ☞ Strong analytical, communication, problem-solving skills, and ensuring attention to detail & delivering exceptional customer service.
+## 💻 About Me
 
-Let's connect and discuss how my expertise can contribute to the success of your projects! 🚀
-<br/>
-<br>
-**Expertise in Tech Stack**: 
-- ☞ IDE | EDITOR: VS Code, IntelliJ, Eclipse, Jupiter notebook
-- ☞ Programming Language: Python, Java, C #. Net & Javascript, NodeJS, JSON, HTML, CSS 
-- ☞ Automation Framework: Selenium, CypressIO, Playwright, AccelQ, Katalon Studio, Tricentis Tosca, WebDriverIO, Protractor, Appium, XCUITest, NightWatch, SpecFlow, RestSharp, RestAssured, SuperTest, Frisby, PyTest, CodedUI, PhantomJS, ReadyAPI, Cucumber, Gauge
-- ☞ Process | Project | Test Case | Bug | Document Management: Agile-Scrum, JIRA, Xray, Rally, Zephyr, Adaptavist, ALM, Confluence
-- ☞ Source Code Management: Git, GitHub, Bitbucket, GitLab, SVN, AWS, Atlassian suite
-- ☞ Database Management: SQL, MySQL, PostgreSQL, OracleDB, BigData, Immuta, Dbeaver, PGAdmin, ETL, Snowflake
-- ☞ API Management: Swagger, POSTMAN, ReadyAPI
-- ☞ Application Monitoring: Splunk, New Relic
-- ☞ Compliance Management: SonarQube & CheckMarx
-- ☞ Architecture | Design | Prototype Management: Figma, Draw.io, 
-- ☞ CI/CD | Pipeline | Server: AWS, Azure, GitHub Action
-- ☞ Performance Testing: JMeter (Backend, AWS S3 Storage & UI Load & Stress test) 
-<br>
+<div align="center">
+  <img width="50%" alt="MDZamanOfficeDesk" src="https://github.com/user-attachments/assets/7bbfc695-01c2-4285-b5e9-195a8b4d1ed8" />
+</div>
 
-- ☞ Driven by passion, dynamism, and innovation, I actively seek an independent contributor role where I can leverage my skills and experience.
-- ☞ With a focus on growth, I am advancing my Python expertise and am eager to bring enhanced value to my next professional opportunity.
-- ☞ Open to exciting challenges, I aim to make a meaningful impact as a highly skilled independent contributor.
-- ☞ My Portfolio [Link](https://gits5213.github.io/mdzamanportfolio/)
-- ☞ My React Website [Link](https://gits5213.github.io/gits/)
-- ☞ Find my updated [RESUME](https://github.com/gits5213/mdzamanportfolio/blob/master/src/resourses/resume/Md%20Zaman%20-%20Resume.pdf)
-- ☞ YouTube Channel for [CypressIO](https://www.youtube.com/@CypressIO-tj9cx)
-- ☞ YouTube Channel for [PlayWright](https://www.youtube.com/@gits15mplaywright)
-- ☞ YouTube Channel for [15MinuteLearning](https://www.youtube.com/@GITS15LEARNING)
-    
-<br/>
-<br>
+An experienced IT leader with over **15 years** of expertise in the Quality Assurance discipline, specializing in software and hardware testing. Adept at managing cross-functional teams, driving innovation through Agile/Scrum methodologies, and delivering high-quality products within strict deadlines. Strong problem-solving and communication skills with a track record of leading large-scale projects and full-stack automation initiatives.
 
+### ✨ Key Highlights
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br/>
+- ☞ Proven track record in mentoring QA Analysts and Technical Support Engineers
+- ☞ Extensive experience with Agile/Scrum, SAFe methodologies, Shift-left, & SDLC/STLC processes
+- ☞ Expert in full-stack automation, technical documentation, and hands-on coding
+- ☞ Adept at delivering presentations, ensuring compliance with public law, and maintaining relevance to business needs
+- ☞ Strong analytical, communication, problem-solving skills, and ensuring attention to detail & delivering exceptional customer service
 
+> Let's connect and discuss how my expertise can contribute to the success of your projects! 🚀
 
-- **Quality Assurance Tech Stack:**
+---
 
-   ![HTML5](https://img.shields.io/badge/-HTML5-white)
-   ![CSS3](https://img.shields.io/badge/-CSS3-white)
-   ![Java](https://img.shields.io/badge/-JAVA-blue)
-   ![C#.Net](https://img.shields.io/badge/-C%23.Net-brightgreen)
-   ![Python](https://img.shields.io/badge/-PYTHON-yellow)
-   ![JavaScript](https://img.shields.io/badge/-JavaScript-lightgrey)</br>
-   ![Git](https://img.shields.io/badge/-GIT-orange)
-   ![GitHub](https://img.shields.io/badge/-GITHUB-Black)
-   ![Bitbucket](https://img.shields.io/badge/-BITBUCKET-Black)
-   ![SVN](https://img.shields.io/badge/-SVN-Black)
-   ![Selenium](https://img.shields.io/badge/-SELENIUM-green)</br>
-   ![WebDriverIO](https://img.shields.io/badge/-WebDriverIO-red)
-   ![Protractor](https://img.shields.io/badge/-PROTRACTOR-red)
-   ![CypressIO](https://img.shields.io/badge/-CypressIO-Black)
-   ![PlayWright](https://img.shields.io/badge/-PlayWright-green)
-   ![SuperTest](https://img.shields.io/badge/-SuperTest-red)
-   ![RestAssured](https://img.shields.io/badge/-RestAssured-green)</br>
-   ![Katalon](https://img.shields.io/badge/-KatalonStudio-green)
+## 🛠️ Tech Stack
 
-<br>
+### Programming Languages & Frameworks
 
-- **Cloud Hosting**:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=white)
+### Automation Frameworks
 
-<br>
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=playwright&logoColor=white)
+![WebDriverIO](https://img.shields.io/badge/WebDriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-0D2C3C?style=for-the-badge&logo=appium&logoColor=white)
+![RestAssured](https://img.shields.io/badge/RestAssured-00A98F?style=for-the-badge&logo=rest-assured&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 
-- **Softwares and Tools**:
+### Tools & Technologies
 
-    ![intellij](https://img.shields.io/badge/intellij-%234285F4.svg?style=for-the-badge&logo=intellij&logoColor=white)
-    ![pycharm](https://img.shields.io/badge/pycharm-%234285F4.svg?style=for-the-badge&logo=pycharm&logoColor=white)
-    ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**IDE & Editors:**
+- VS Code, IntelliJ IDEA, Eclipse, Jupyter Notebook
 
-<br>    
+**Source Code Management:**
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white)
+![SVN](https://img.shields.io/badge/SVN-809CC9?style=for-the-badge&logo=subversion&logoColor=white)
 
-### Connect with me:
+**Project Management:**
+- JIRA, Xray, Rally, Zephyr, Adaptavist, ALM, Confluence
 
-<div style="background-color:rgba(222, 222, 222, 1); text-align:center; vertical-align: middle; padding:40px 0; margin-top:30px">
-  <a href="https://gitsics.com/"> <img align="left" alt="website-portfolio" width="22px"            src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a> 
-  <a href="https://gits5213.github.io/mdzamanportfolio/"> <img align="left" alt="website-portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a> 
-  <a href="https://www.linkedin.com/in/zamanmd/"><img align = "left" width="22px" src="https://www.iconsdb.com/icons/preview/blue/linkedin-xxl.png"/>
-  </a>
-  </div>
-  
-  <br>
-  <br>
-  <br>
-  <br>
- 
-[![](https://github-readme-activity-graph.cyclic.app/graph?username=gits5213)](https://gits5213.github.io/mdzamanportfolio/)
-  
-<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="90%" align="center">
+**Database:**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white)
+- SQL, BigData, Immuta, DBeaver, PGAdmin, ETL
 
-## Standards & best practices docs
+**API Management:**
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+- ReadyAPI
+
+**CI/CD & Cloud:**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure-devops&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**Monitoring & Compliance:**
+- Splunk, New Relic, SonarQube, CheckMarx
+
+**Performance Testing:**
+![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)
+
+**Design & Architecture:**
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- Draw.io
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=gits5213&theme=github-compact" alt="GitHub Activity Graph" />
+</div>
+
+---
+
+## 🎯 Current Focus
+
+- ☞ Driven by passion, dynamism, and innovation, I actively seek an independent contributor role where I can leverage my skills and experience
+- ☞ With a focus on growth, I am advancing my Python expertise and am eager to bring enhanced value to my next professional opportunity
+- ☞ Open to exciting challenges, I aim to make a meaningful impact as a highly skilled independent contributor
+
+---
+
+## 🔗 Quick Links
+
+### 🌐 Portfolio & Websites
+- [Personal Portfolio](https://gits5213.github.io/mdzamanportfolio/)
+- [React Website](https://gits5213.github.io/gits/)
+- [Professional Website](https://gitsics.com/)
+- [Resume](https://github.com/gits5213/mdzamanportfolio/blob/master/src/resourses/resume/Md%20Zaman%20-%20Resume.pdf)
+
+### 📺 YouTube Channels
+- [CypressIO Tutorials](https://www.youtube.com/@CypressIO-tj9cx)
+- [Playwright Tutorials](https://www.youtube.com/@gits15mplaywright)
+- [15MinuteLearning](https://www.youtube.com/@GITS15LEARNING)
+
+---
+
+## 📚 Resources & Documentation
+
+### Standards & Best Practices
 - [Full Stack QA Standards](https://github.com/gits5213/StandardsReadME)
 
-## Books 📚
-- [Books](https://github.com/msz5213/Books)
+### Books
+- [Books Collection](https://github.com/msz5213/Books)
 
-## Personal web development projects 💁
+---
+
+## 💼 Projects
+
+### Personal Web Development Projects
 - [Personal Portfolio](https://github.com/gits5213/mdzamanportfolio)
 - [Personal React Website](https://github.com/gits5213/gits)
 - [Personal TODO Project](https://github.com/gits5213/todolist)
-- [Personal Student Subscription Project](https://github.com/gits5213/student-subscription)
+- [Student Subscription Project](https://github.com/gits5213/student-subscription)
 
-## Interview project framework
-- [Take home webDriver Test](https://github.com/gits5213/take-home-webdriver-test)
+### Interview Project Frameworks
+- [Take Home WebDriver Test](https://github.com/gits5213/take-home-webdriver-test)
 - [Java Selenium Practice Interview Project](https://github.com/gits5213/InterviewProject)
 
-## CI/CD
-- [Jenkins pipeline setUp](https://github.com/gits5213/jenkins)
+### CI/CD Projects
+- [Jenkins Pipeline Setup](https://github.com/gits5213/jenkins)
 
-## Performance JMeter framework
+### Performance Testing
 - [JMeter Performance Framework](https://github.com/gits5213/jmeter)
 
-## Public repository (JAVA)
+### Public Repositories (Java)
 - [Interview Bullish UI&API Project](https://github.com/gits5213/bullish)
 - [Java RestAssured Maven Project](https://github.com/gits5213/RESTfullRestAssuredTestAutomation/tree/master/RESTfullRestAssuredAPIAutomation)
 - [Java Selenium UI Framework](https://github.com/gits5213/AutomationFramewok)
-- [Java Selenium UI Framework](https://github.com/gits5213/POM_TestNG_CompleteFramework)
+- [Java Selenium UI Framework (POM TestNG)](https://github.com/gits5213/POM_TestNG_CompleteFramework)
 - [Java Selenium UI Practice Project](https://github.com/gits5213/Daily_PracticeTest)
-- [Java Selenium UI Framework](https://github.com/gits5213/LearningAutomationEndToEnd/tree/master/ScratchSeleniumAPISProject)
+- [Java Selenium UI Framework (Learning)](https://github.com/gits5213/LearningAutomationEndToEnd/tree/master/ScratchSeleniumAPISProject)
 - [Java Playwright UI Framework](https://github.com/gits5213/Playwright/tree/master/javaBoilerplate)
 
-## Public Repository (JavaScript) 
+### Public Repositories (JavaScript)
 - [CypressIO Old UI Framework](https://github.com/gits5213/cypresse2e)
 - [Protractor Framework](https://github.com/gits5213/ProtractorPublic)
 - [SuperTest Framework](https://github.com/gits5213/RESTfulSuperTestAutomation/tree/master/SuperTestMocha)
 - [Protractor UI Framework](https://github.com/gits5213/DataProtractor)
 - [NightWatch UI Framework](https://github.com/gits5213/NightwatchPublic)
-- [ES6 Cheetsheet](https://github.com/gits5213/ES6-Cheetsheets)
+- [ES6 Cheatsheet](https://github.com/gits5213/ES6-Cheetsheets)
 
-## Private repository
-- [GIT's Independent Company Works](https://github.com/gits5213/company)
+### Other Resources
+- [GitHub Emoji Collection](https://github.com/gits5213/Github-emoji)
+- [Private Company Works](https://github.com/gits5213/company)
+- [Students Repository - Batch 2023](https://github.com/gits5213/students2023)
+- [Students Repository - Batch 2020](https://github.com/gits5213/sqabdautomation)
 
-## GitHub Emoji
-- [GitHub Emoji](https://github.com/gits5213/Github-emoji)
+---
 
-## Students repository
-- [Bangladesh Student Batch 2023](https://github.com/gits5213/students2023)
-- [Bangladesh Student Batch 2020](https://github.com/gits5213/sqabdautomation)
+## 🏆 Certifications
 
-## Digital Badges
-- [Credly](https://www.credly.com/users/md-zaman.7c37c39b/)
-- [ASTQB-ISTQB](https://atsqa.org/certified-testers/profile/adf4f235737b476290ec4b903dc2366a)
-- [Certifyme](https://www.wallet.certifyme.online/)
-  
-## Certifications
-- [AWS solutions architect](https://www.credly.com/badges/1ce3213f-8974-4cbf-becb-7a197362b5e9/linked_in_profile)
+### Cloud & Architecture
+- [AWS Solutions Architect](https://www.credly.com/badges/1ce3213f-8974-4cbf-becb-7a197362b5e9/linked_in_profile) ✅
+
+### Quality Assurance
+- [ISTQB Foundation Level](https://astqb.org/certifications/foundation-level-certification/) ✅
+- [ISTQB Advanced Test Automation Engineer](https://astqb.org/certifications/test-automation-engineer-certification/) ✅
+- [ISTQB Advanced Test Manager](https://astqb.org/certifications/istqb-advanced-level-test-manager-certification/) ✅
 - [ISTQB Pathshala](https://istqb.patshala.com/)
-- [5 Reasons You Should Take ISTQB exams](https://astqb.org/certifications/#a)
-- [Foundation Level](https://astqb.org/certifications/foundation-level-certification/) [PASS]
-- [Advance Automation Test](https://astqb.org/certifications/test-automation-engineer-certification/) [PASS]
-- [Test Manager](https://astqb.org/certifications/istqb-advanced-level-test-manager-certification/) [PASS]
-- [CompTIA Security+](https://www.comptia.org/certifications/security) [PASS]
-- [Scrum Master](https://www.scrum.org/) [PASS]
-- [DHS Trusted Tester](https://www.dhs.gov/trusted-tester) [PASS]
-- [Tricentis Tosca Test Architect](https://academy.tricentis.com/learn/mycourses) [PASS]
-- [Certified SAFe® 4 Agilist](https://scaledagile.com/safe-certification/) [PASS]
-- [Certified SAFe® 6 Practitioner](https://scaledagile.com/safe-certification/) [PASS]
-- [CompTIA-Pen Test](https://www.comptia.org/certifications/pentest) [InProgreess...]
-- [ACCELQ - Automation Engineer](https://certificate.accelq.com/verify/b02e3532689) [PASS]
+- [5 Reasons You Should Take ISTQB Exams](https://astqb.org/certifications/#a)
 
-## MD's Resources
+### Security
+- [CompTIA Security+](https://www.comptia.org/certifications/security) ✅
+- [CompTIA PenTest+](https://www.comptia.org/certifications/pentest) 🔄 In Progress
+- [DHS Trusted Tester](https://www.dhs.gov/trusted-tester) ✅
+
+### Agile & Project Management
+- [Certified Scrum Master](https://www.scrum.org/) ✅
+- [Certified SAFe® 4 Agilist](https://scaledagile.com/safe-certification/) ✅
+- [Certified SAFe® 6 Practitioner](https://scaledagile.com/safe-certification/) ✅
+
+### Test Automation Tools
+- [Tricentis Tosca Test Architect](https://academy.tricentis.com/learn/mycourses) ✅
+- [ACCELQ Automation Engineer](https://certificate.accelq.com/verify/b02e3532689) ✅
+
+### Digital Badges
+- [Credly Profile](https://www.credly.com/users/md-zaman.7c37c39b/)
+- [ASTQB-ISTQB Profile](https://atsqa.org/certified-testers/profile/adf4f235737b476290ec4b903dc2366a)
+- [Certifyme Wallet](https://www.wallet.certifyme.online/)
+
+---
+
+## 📞 Connect With Me
+
+<div align="center">
+  <a href="https://gitsics.com/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://gits5213.github.io/mdzamanportfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/zamanmd/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/gits5213">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
+
+---
+
+## 📈 Additional Resources
+
 - [Roadmaps](https://roadmap.sh/u/gitsics)
-- [All gist](https://gist.github.com/gits5213)
-- [LinkedIn](https://www.linkedin.com/in/zamanmd/)
-- [Website](https://gitsics.com/)
-- [Website]([https://gitsics.com/](https://gits5213.github.io/gits/))
-- [GitHub](https://github.com/gits5213)
-- [NPM Packages](https://www.npmjs.com/settings/gits5213/packages) 
+- [All Gists](https://gist.github.com/gits5213)
+- [NPM Packages](https://www.npmjs.com/settings/gits5213/packages)
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="90%">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+</div>
+
+---
+
+<div align="center">
+  <i>Thanks for visiting my profile! Feel free to reach out for collaborations or discussions.</i>
+  <br>
+  <i>⭐ Star my repositories if you find them interesting!</i>
+</div>
