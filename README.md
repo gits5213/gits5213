@@ -15,7 +15,9 @@
   <img width="50%" alt="MDZamanOfficeDesk" src="https://github.com/user-attachments/assets/7bbfc695-01c2-4285-b5e9-195a8b4d1ed8" />
 </div>
 
-An experienced IT leader with over **15 years** of expertise in the Quality Assurance discipline, specializing in software and hardware testing. Adept at managing cross-functional teams, driving innovation through Agile/Scrum methodologies, and delivering high-quality products within strict deadlines. Strong problem-solving and communication skills with a track record of leading large-scale projects and full-stack automation initiatives.
+A seasoned **IT leader** with **15+ years** of proven expertise in Quality Assurance, specializing in both **software and hardware testing**. I excel at building and leading cross-functional teams, driving innovation through **Agile/Scrum methodologies**, and consistently delivering high-quality products under tight deadlines. 
+
+With a strong foundation in **problem-solving** and **communication**, I have a demonstrated track record of successfully leading **large-scale projects** and architecting **full-stack automation initiatives** that transform testing processes and accelerate product delivery.
 
 ### ✨ Key Highlights
 
