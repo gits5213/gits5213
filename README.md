@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://komarev.com/ghpvc/?username=gits5213&color=blueviolet&style=flat-square" alt="gits5213" />
+  <img src="https://komarev.com/ghpvc/?username=gits5213&color=blueviolet&style=flat-square&base=10234" alt="gits5213" />
 </p>
 
 ## 💻  **About me** 👨 
