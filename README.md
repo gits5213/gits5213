@@ -4,7 +4,7 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/gits5213/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=gits5213&color=blueviolet&style=flat-square" alt="gits5213" />
 </p>
 
 ## 💻  **About me** 👨 
