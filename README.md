@@ -15,8 +15,9 @@
   <img 
     src="https://github.com/user-attachments/assets/7bbfc695-01c2-4285-b5e9-195a8b4d1ed8" 
     alt="MD Shahnewaz Zaman - Software Engineer | Test Architect | SDET" 
-    width="300"
-    style="border-radius: 50%; border: 4px solid #0366d6; box-shadow: 0 4px 12px rgba(0,0,0,0.15); object-fit: cover; display: block; margin: 0 auto;"
+    width="280"
+    height="280"
+    style="border-radius: 50%; border: 4px solid #0366d6; box-shadow: 0 4px 12px rgba(0,0,0,0.15); object-fit: cover; display: block; margin: 0 auto; aspect-ratio: 1/1;"
   />
 </div>
 
