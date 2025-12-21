@@ -15,17 +15,32 @@
   <img width="50%" alt="MDZamanOfficeDesk" src="https://github.com/user-attachments/assets/7bbfc695-01c2-4285-b5e9-195a8b4d1ed8" />
 </div>
 
-A seasoned **IT leader** with **15+ years** of proven expertise in Quality Assurance, specializing in both **software and hardware testing**. I excel at building and leading cross-functional teams, driving innovation through **Agile/Scrum methodologies**, and consistently delivering high-quality products under tight deadlines. 
+**Independent Professional** | **Software Engineer** | **Test Architect** | **Tech Lead QE Automation Engineer** | **Full-Stack QA Engineer** | **Sr. SDET**
 
-With a strong foundation in **problem-solving** and **communication**, I have a demonstrated track record of successfully leading **large-scale projects** and architecting **full-stack automation initiatives** that transform testing processes and accelerate product delivery.
+A seasoned **IT leader** with **15+ years** of hands-on experience across diverse industries and enterprise platforms. I'm happiest when I'm solving hard problems—untangling complex systems, improving test reliability, and making sure technology works for everyone, including users who rely on accessibility tools.
+
+Currently leading **QA initiatives at Global iTech Solutions** for enterprise clients, where I focus on automation strategy, AI-driven testing, and DevSecOps integration. I architect scalable test frameworks and mentor teams to deliver high-quality software solutions.
+
+### 🎯 Specializations
+
+- ⚙️ **Test Automation Architect** - Designing scalable automation frameworks for enterprise applications
+- 🚀 **DevSecOps & CI/CD Integration** - Seamless integration of testing into deployment pipelines
+- ♿ **Accessibility & 508 Compliance** - Ensuring digital accessibility standards and compliance
+- 🤖 **AI-Augmented Testing** - Leveraging ChatGPT, Copilot, and AI tools for enhanced testing
+
+### 🌐 Industries & Domains
+
+Banking • Finance • Trading • Ecommerce • Insurance • Health • Digital Media • Telecommunication • Blockchain • Crypto • Aviation & Defense • Education • Logistics • CRM • CMS • Salesforce
 
 ### ✨ Key Highlights
 
-- ☞ Proven track record in mentoring QA Analysts and Technical Support Engineers
+- ☞ Proven track record in mentoring QA Analysts and Technical Support Engineers across multiple organizations
 - ☞ Extensive experience with Agile/Scrum, SAFe methodologies, Shift-left, & SDLC/STLC processes
 - ☞ Expert in full-stack automation, technical documentation, and hands-on coding
-- ☞ Adept at delivering presentations, ensuring compliance with public law, and maintaining relevance to business needs
-- ☞ Strong analytical, communication, problem-solving skills, and ensuring attention to detail & delivering exceptional customer service
+- ☞ Led teams of 6-12+ engineers on enterprise projects with measurable ROI ($90K-$135K savings per project)
+- ☞ Strong analytical, communication, problem-solving skills with focus on accessibility and compliance
+
+> **📌 Source of Truth:** For the most up-to-date information about my experience, projects, and achievements, please visit my [**Portfolio Website**](https://gits5213.github.io/mdzamanportfolio/) | [**Professional Website**](https://gitsics.com/)
 
 > Let's connect and discuss how my expertise can contribute to the success of your projects! 🚀
 
@@ -108,11 +123,17 @@ With a strong foundation in **problem-solving** and **communication**, I have a 
 
 ---
 
-## 🎯 Current Focus
+## 🎯 What I Want to Work On Next
 
-- ☞ Driven by passion, dynamism, and innovation, I actively seek an independent contributor role where I can leverage my skills and experience
-- ☞ With a focus on growth, I am advancing my Python expertise and am eager to bring enhanced value to my next professional opportunity
-- ☞ Open to exciting challenges, I aim to make a meaningful impact as a highly skilled independent contributor
+I want to work on **meaningful, large-scale systems** where quality, accessibility, and reliability truly matter. I'm excited by environments that value strong engineering practices, collaboration, and thoughtful leadership—where I can continue to:
+
+- 🏗️ Build modern automation frameworks that scale with business growth
+- ♿ Ensure inclusive digital experiences through accessibility-first testing
+- 👥 Mentor teams toward higher standards of quality and engineering excellence
+- 🚀 Drive innovation in AI-augmented testing and DevSecOps practices
+- 📊 Deliver measurable business impact through strategic automation initiatives
+
+I'm currently open to opportunities as a hands-on **Independent Test Architect** | **Sr. SDET** | **SDET** | **Tech Lead** | **Full-Stack Quality Assurance Engineer** on impactful systems. If my background resonates with your needs, I'd be happy to connect.
 
 ---
 
