@@ -222,6 +222,16 @@ I'm currently open to opportunities as a hands-on **Independent Test Architect**
 ---
 
 <div align="center">
+  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="90%">
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="divider">
+</div>
+
+---
+
+<div align="center">
   <i>Thanks for visiting my profile! Feel free to reach out for collaborations or discussions.</i>
   <br>
   <i>⭐ Star my repositories if you find them interesting!</i>
