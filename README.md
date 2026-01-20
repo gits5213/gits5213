@@ -13,8 +13,11 @@
   [![Portfolio](https://img.shields.io/badge/Portfolio-mdzamanportfolio-0366d6?style=flat-square&logo=github)](https://gits5213.github.io/mdzamanportfolio/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-zamanmd-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/zamanmd/)
   [![GitHub](https://img.shields.io/badge/GitHub-gits5213-181717?style=flat-square&logo=github)](https://github.com/gits5213)
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=gits5213&color=0366d6&style=flat-square)
+</div>
+
+<div align="center">
+  <h3>👋 Visitor Count</h3>
+  <img src="https://komarev.com/ghpvc/?username=gits5213&color=blueviolet&style=flat-square&base=10234" alt="gits5213" />
 </div>
 
 ---
