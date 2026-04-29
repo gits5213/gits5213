@@ -65,8 +65,13 @@ I have been leading & architect QA strategy & frameworks for enterprise clients,
 ![WebDriverIO](https://img.shields.io/badge/WebDriverIO-EA5906?style=for-the-badge&logo=webdriverio&logoColor=white)
 ![Appium](https://img.shields.io/badge/Appium-0D2C3C?style=for-the-badge&logo=appium&logoColor=white)
 ![RestAssured](https://img.shields.io/badge/RestAssured-00A98F?style=for-the-badge&logo=rest-assured&logoColor=white)
+![POSTMAN](https://img.shields.io/badge/RestAssured-00A98F?style=for-the-badge&logo=rest-assured&logoColor=white)
+![ReadyAPI](https://img.shields.io/badge/RestAssured-00A98F?style=for-the-badge&logo=rest-assured&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Tricentis Tosca](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![AcelQ](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![JMeter/BlazeMeter](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
 
 ### Tools & Technologies
 
