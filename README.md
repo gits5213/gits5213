@@ -1,9 +1,16 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/9774321?v=4&size=64" 
-    alt="MD Shahnewaz Zaman" 
-    width="200"
-    style="border-radius: 50%; border: 4px solid #0366d6; box-shadow: 0 4px 12px rgba(0,0,0,0.15);"
-  />
+  <img 
+  src="https://avatars.githubusercontent.com/u/9774321?v=4&size=200" 
+  alt="MD Shahnewaz Zaman" 
+  width="200"
+  height="200"
+  style="
+    border-radius: 50%;
+    border: 4px solid #0366d6;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+    object-fit: cover;
+  "
+/>
   
   ### MD Shahnewaz Zaman
   
