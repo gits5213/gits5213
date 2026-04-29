@@ -14,7 +14,7 @@
   
   ### MD Shahnewaz Zaman
   
-  **Software Engineer | Test Architect | SDET | Tech Lead QE Automation Engineer**
+  **Corporate Trainer|Software Engineer | Test Architect | SDET | Tech Lead QE Automation Engineer**
   
   [![Website](https://img.shields.io/badge/Website-gitsics.com-0366d6?style=flat-square&logo=google-chrome)](https://gitsics.com/)
   [![Portfolio](https://img.shields.io/badge/Portfolio-mdzamanportfolio-0366d6?style=flat-square&logo=github)](https://gits5213.github.io/mdzamanportfolio/)
