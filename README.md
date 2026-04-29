@@ -37,9 +37,9 @@ I'm a **Senior SDET and Tech Lead QA Engineer** with over **15 years of experien
 
 I specialize in **full-stack Quality Engineering Including DevOps**— UI, API, mobile, middleware, accessibility (508 compliance), performance, and security testing. Throughout my career, I've built, scaled, and optimized automation frameworks using **Selenium, Playwright, Protractor, Cypress, Tosca, Katalon, AccelQ, Subject7, RestAssured, ReadyAPI, Postman, JMeter**, and more.
 
-I work across multiple programming languages including **Java, JavaScript, TypeScript, Python, and C#**, and integrate automation into CI/CD pipelines using **Azure DevOps, GitHub Actions, Jenkins, GitLab, and AWS**.
+I work across multiple programming languages, including **Java, JavaScript, TypeScript, Python, and C#**, and integrate automation into CI/CD pipelines using **Azure DevOps, GitHub Actions, Jenkins, GitLab, and AWS**.
 
-I have been leading & architect QA strategy & frameworks for enterprise clients, improved engineering workflows, and mentoring cross-functional teams to elevate automation maturity, process consistency, and quality culture. My focus is always on delivering **reliable, secure, accessible, and high-performing software** through strong collaboration and engineering excellence.
+I have been leading & architecting QA strategy & frameworks for enterprise clients, improving engineering workflows, and mentoring cross-functional teams to elevate automation maturity, process consistency, and quality culture. My focus is always on delivering **reliable, secure, accessible, and high-performing software** through strong collaboration and engineering excellence.
 
 > **📌 Source of Truth:** For the most up-to-date information, visit my [Portfolio](https://mdszaman.com/) | [Professional Website](https://gitsics.com/) | [Educational Website](https://gits5213.github.io/gits/) |
 
